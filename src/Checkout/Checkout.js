@@ -15,6 +15,7 @@ const Checkout = () => {
           alt=""
         />
         <div className="checkout__title">
+          <h3>Hello, {state.user?.email}</h3>
           <h2>Your shopping basket</h2>
           {state.basket.map((item) => (
             <CheckoutProduct {...item} />
