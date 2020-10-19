@@ -14,7 +14,7 @@ function Home() {
           <Product
             id="12"
             title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
+            price={19.95}
             rating={5}
             image={
               "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
@@ -23,7 +23,7 @@ function Home() {
           <Product
             id="12"
             title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
+            price={19.95}
             rating={5}
             image={
               "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
@@ -32,18 +32,7 @@ function Home() {
           <Product
             id="12"
             title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
-            rating={5}
-            image={
-              "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
-            }
-          />
-        </div>
-        <div className="home__row">
-          <Product
-            id="12"
-            title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
+            price={19.95}
             rating={5}
             image={
               "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
@@ -54,7 +43,18 @@ function Home() {
           <Product
             id="12"
             title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
+            price={19.95}
+            rating={5}
+            image={
+              "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
+            }
+          />
+        </div>
+        <div className="home__row">
+          <Product
+            id="12"
+            title="The Lean StartupThe Lean Startup The Lean Startup "
+            price={19.95}
             rating={5}
             image={
               "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
@@ -63,7 +63,7 @@ function Home() {
           <Product
             id="12"
             title="The Lean StartupThe Lean Startup The Lean Startup "
-            price={19.99}
+            price={19.95}
             rating={5}
             image={
               "https://images-na.ssl-images-amazon.com/images/I/81-QB7nDh4L.jpg"
